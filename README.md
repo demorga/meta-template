@@ -4,21 +4,25 @@
 
 ## Documentation
 
-> [Visit]()
+> [Visit](https://demoga.github.io/website/docs)
 
 ## Community
 
 ### Code of Conduct
 
-> [See]()
+> [See](https://github.com/demorga/community/CODE_OF_CONDUCT) Code of Conduct
 
 ### Contributing
 
-> [See]()
+> [See](https://github.com/demorga/community/guides/CONTRIBUTING) Contributing Guidelines
 
 ### Discussion
 
-> [Ask a Question]()
+> [Ask a Question](https://github.com/demorga/community/discussions)
+
+## Author
+
+- [ztk37](https://github.com/ztk37)
 
 ## License
 
