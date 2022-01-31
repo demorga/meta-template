@@ -10,7 +10,7 @@
 
 ### Code of Conduct
 
-> [See](https://github.com/demorga/community/CODE_OF_CONDUCT) Code of Conduct
+> [See](https://github.com/demorga/community/blob/master/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct) Code of Conduct
 
 ### Contributing
 
