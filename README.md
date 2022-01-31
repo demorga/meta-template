@@ -14,7 +14,7 @@
 
 ### Contributing
 
-> [See](https://github.com/demorga/community/.github/CONTRIBUTING.md#contributing-guidelines) Contributing Guidelines
+> [See](https://github.com/demorga/community/blob/master/.github/CONTRIBUTING.md#contributing-guidelines) Contributing Guidelines
 
 ### Discussion
 
